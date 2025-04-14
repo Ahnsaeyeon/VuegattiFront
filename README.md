@@ -53,6 +53,28 @@
 
 ---
 
+## 🛠️기술 스택
+🧩 Frontend
+- Vue.js 3 
+- Vue Router
+- Pinia
+
+🎨 UI & UX
+- CSS3 
+- Chart.js
+
+📦 Backend 
+- JSON Server 
+- Axios 
+- Glitch
+
+🛠 협업 & 버전 관리
+- Git / GitHub
+- Vercel
+- Notion / Figma 
+
+---
+
 ## 주요 기능
 
 - 캘린더 기반 수입/지출 기록
